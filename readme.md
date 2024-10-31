@@ -2,21 +2,6 @@
 
 This Flask-based microservice manages room availability, cleaning status, and provides a list of all rooms.
 
-## Installation
-
-1. Clone this repository:
-
-    ```bash
-    git clone https://github.com/Planteig1/roomsService.git
-    cd roomsService
-    ```
-
-2. Or use Docker:
-
-    ```bash
-    docker run -it --rm -p 5000:5000 rooms-service
-    ```
-
 ## Endpoints
 
 - **Update room availability**
